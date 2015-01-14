@@ -1,5 +1,3 @@
-// temporal vocoder (c)2014 analoq[labs]
-// http://analoq.la
 #include <unistd.h>
 #include <iostream>
 #include <iomanip>
